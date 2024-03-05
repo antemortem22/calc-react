@@ -1,3 +1,3 @@
 # Empezando react
-Proyecto en proyecto en curso, hecho por una capacitacion en udemy
+Proyecto en curso, hecho por una capacitacion en udemy
 
